@@ -1,11 +1,9 @@
 ---
 layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+title: "포스팅 테스트"
 ---
+
+# 하이하이 
 
 test 
 $x_i$
