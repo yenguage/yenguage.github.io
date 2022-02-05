@@ -1,9 +1,8 @@
---
+---
 title: "About"
 permalink: /about/
 layout: single
 ---
 
-## yenguage.github.io 블로그
-
-이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
+AI 를 좋아하는, 공부하는 소시민 입니다.
+게시된 글과 관련된 질문 혹은 피드백은 언제든 환영입니다!
