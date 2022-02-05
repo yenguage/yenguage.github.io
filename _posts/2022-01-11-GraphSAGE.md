@@ -75,8 +75,7 @@ improving node embedding via inductive graph neural network
 
 - forward 할 때는 1-hop neighbors를 대상으로 하고, unsupervised loss 계산할 때는 fixed-length random walk 로 이웃을 정한다. 헷갈릴 수도 있을 듯.
 - 레스코백 교수님 논문! 
-- [PinSAGE 논문]이 GraphSAGE를 토대로 recommendation에 초점을 맞춰서 이어서 하신 연구인가봄. 모델이 거의 비슷하다. 
-- 벨로그에선 접기/펼치기 기능이 안 돼서 속상하다. 벨로그의 깔끔함과 포인트 초록색이 너무너무 마음에 들지만 접기가 안 돼서 글이 너무 지저분해보인다. 이제 슬슬 정들어가는데 속상해서 눈물이 날 것 같다. 깃허브로 이사갈까 고민 중...ㅠ_ㅠ 
+- [PinSAGE 논문]이 GraphSAGE를 토대로 recommendation에 초점을 맞춰서 이어서 하신 연구인가봄. 모델이 거의 비슷하다.
 
 
 #### Source
