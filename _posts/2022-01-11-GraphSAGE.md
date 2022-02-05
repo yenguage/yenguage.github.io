@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Inductive Representation Learning on Large Graphs, Neurips 2017"
+title: "GraphSAGE: Inductive Representation Learning on Large Graphs, Neurips 2017"
 use_math: true
 toc: true
 toc_sticky: true
