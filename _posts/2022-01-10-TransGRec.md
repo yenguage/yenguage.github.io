@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Learning to Transfer Graph Embeddings for Inductive Graph based Recommendation, SIGIR 2020"
+title: "TransGRec: Learning to Transfer Graph Embeddings for Inductive Graph based Recommendation, SIGIR 2020"
 use_math: true
 toc: true
 toc_sticky: true
@@ -9,9 +9,9 @@ categories:
 - Recommendation
 ---
 
-[Paper Review] Learning to Transfer Graph Embeddings for Inductive Graph based Recommendation, SIGIR 2020
+[Paper Review] TransGRec: Learning to Transfer Graph Embeddings for Inductive Graph based Recommendation, SIGIR 2020
 
-TransGRec
+
 
 ## Goal
 Personalized video highlight Recommendation
