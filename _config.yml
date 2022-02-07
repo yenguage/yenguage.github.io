@@ -106,7 +106,7 @@ author:
   avatar           : "assets/images/aicharacter.jpeg"
   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "신비한 AI 나라의 소시민"
-  location         : "Nowhere"
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
