@@ -4,6 +4,7 @@ title: "TransGRec: Learning to Transfer Graph Embeddings for Inductive Graph bas
 use_math: true
 toc: true
 toc_sticky: true
+comments: true
 categories:
 - Graph Neural Network
 - Recommendation

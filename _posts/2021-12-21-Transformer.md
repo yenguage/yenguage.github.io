@@ -4,6 +4,7 @@ title: "Transformer: Attention is all you need, NeurIPS 2017"
 use_math: true
 toc: true
 toc_sticky: true
+comments: true
 categories:
 - Natural Language Processing
 ---

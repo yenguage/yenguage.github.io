@@ -4,6 +4,7 @@ title: "GraphSAGE: Inductive Representation Learning on Large Graphs, Neurips 20
 use_math: true
 toc: true
 toc_sticky: true
+comments: true
 categories:
 - Graph Neural Network
 ---
